@@ -18,7 +18,7 @@ public class Example03 {
 		boolean bool = true; // 소문자로부터 시작
 		
 		// 출력하기
-		System.out.println(str);
+		System.out.println(sr);
 		System.out.print(bool);;
 		System.out.print(" " + c );
 		System.out.println(); //다음 줄로 가기
